@@ -1,4 +1,4 @@
-## My name is Leonardo and I'm a back-end developer 
+## My name is Leonardo and I'm a cybersecurity student and enthusiast
 
 ![oleomiranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleomiranda&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleomiranda&theme=dark&layout=compact)
@@ -6,9 +6,9 @@
 <details>
 	<summary><b> A FEW THINGS ABOUT ME: </b></summary>
 	
-	- 21year old 
+	- 23year old 
 	- PWD (PCD) 
-	- Currently looking for my first job 
+	- Currently looking for my first job as pentester
 	- I speak Portuguese and English  
 </details>
 
