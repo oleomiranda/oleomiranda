@@ -32,6 +32,7 @@
 	<img align="center" alt="c plus plus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%;">
 	<img align="center" alt="MongoDb" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="max-width:100%;">
 	<img align="center" alt="MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width:100%;">
+	<img align="center" alt="bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="max-width:100%;">
 	<img align="center" alt="vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="max-width:100%;">
 </div>
 
