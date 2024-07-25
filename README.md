@@ -16,8 +16,8 @@
 ## A FEW THINGS ABOUT ME: 
 	
 - 24year old 
-- PWD (PCD) 
-- Currently looking for my first opportunity in cybersecurity
+- PWD (PCD)
+- Cybersecurity Assistant
 - I speak Portuguese and English
 - Learning Russian
 
@@ -29,9 +29,8 @@
 	<img align="center" alt="android"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" style="max-width:100%;"/>
 	<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="max-width:100%;">
     	<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-	<img align="center" alt="c plus plus" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width:100%;">
 	<img align="center" alt="MongoDb" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="max-width:100%;">
-	<img align="center" alt="MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" style="max-width:100%;">
+	<img align="center" alt="MySql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" style="max-width:100%;">
 	<img align="center" alt="bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="max-width:100%;">
 	<img align="center" alt="vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="max-width:100%;">
 </div>
