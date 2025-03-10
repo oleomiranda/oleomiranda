@@ -26,7 +26,6 @@
 <div>
         <img align="center" alt="linux"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width:100%;"/>
 	<img align="center" alt="windows"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="max-width:100%;"/>
-	<img align="center" alt="android"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg" style="max-width:100%;"/>
 	<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="max-width:100%;">
     	<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
 	<img align="center" alt="MongoDb" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" style="max-width:100%;">
