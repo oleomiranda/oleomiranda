@@ -15,9 +15,9 @@
 
 ## A FEW THINGS ABOUT ME: 
 	
-- 24year old 
+- 25year old 
 - PWD (PCD)
-- Cybersecurity Assistant
+- Ethical Hacker
 - I speak Portuguese and English
 - Learning Russian
 
